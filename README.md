@@ -2,7 +2,7 @@
 
 **Collecting data**
 
-[This](https://github.com/ieee8023/covid-chestxray-dataset) repository contains a database of COVID-19 cases with chest X-ray or CT images as well as MERS, SARS, and ARDS. Clone this repository in order t proceed with building the dataset.
+[This](https://github.com/ieee8023/covid-chestxray-dataset) repository contains a database of COVID-19 cases with chest X-ray or CT images as well as MERS, SARS, and ARDS. Clone this repository in order to proceed with building the dataset.
 
 Using the *metadata.csv*, extract all images which are covid-positive using the [build_dataset.py](https://github.com/yashk2000/covid-detection/blob/master/build_dataset.py) script. 
 
